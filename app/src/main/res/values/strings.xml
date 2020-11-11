@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppBarber</string>
+    <string name="btAccess">ENTRAR COM EMAIL E SENHA</string>
+    <string name="barberName">AppBarber</string>
+    <string name="accessTxt">Entrar com:</string>
+    <string name="inputEmail">EMAIL</string>
+    <string name="inputPassword">SENHA</string>
+    <string name="btLogin">ENTRAR</string>
+    <string name="btNewRegister">CRIAR NOVA CONTA</string>
+    <string name="createAccount">Criar Conta</string>
+    <string name="createName">Nome</string>
+    <string name="createPhone">Telefone</string>
+    <string name="createEmail">E-mail</string>
+    <string name="createConfirmEmail">Confirma e-mail</string>
+    <string name="createPassword">Senha</string>
+    <string name="createConfirmPassword">Confirma senha</string>
+    <string name="btRegister">Realizar cadastro</string>
+</resources>
